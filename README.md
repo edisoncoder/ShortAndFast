@@ -10,3 +10,7 @@ Generate, in python, a Multiplication Table with 3 columns, from 2 to 10
 #### 2 - PresidentsHeight
 Generates a graphic who indicates the distribution of old presidents of EUA  
 [PresidentsHeights.py](https://github.com/edisoncoder/presidentsHeight/blob/master/presidentsHeight.py)
+
+#### 3 - ReplaceCharacter
+A piece of code that replace characters in a text  
+[replaceCharacter.py](https://github.com/edisoncoder/ShortAndFast/blob/main/replaceCharacter.py)
